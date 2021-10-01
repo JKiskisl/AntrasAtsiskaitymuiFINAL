@@ -1,0 +1,10 @@
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\bin\Debug\AntrasPraktzz.exe.config
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\bin\Debug\AntrasPraktzz.exe
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\bin\Debug\AntrasPraktzz.pdb
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.csproj.AssemblyReference.cache
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.Form1.resources
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.Properties.Resources.resources
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.csproj.GenerateResource.cache
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.csproj.CoreCompileInputs.cache
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.exe
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPraktzz\obj\Debug\AntrasPraktzz.pdb

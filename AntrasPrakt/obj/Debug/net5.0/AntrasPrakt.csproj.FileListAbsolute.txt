@@ -1,0 +1,16 @@
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\AntrasPrakt.exe
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\AntrasPrakt.deps.json
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\AntrasPrakt.runtimeconfig.json
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\AntrasPrakt.runtimeconfig.dev.json
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\AntrasPrakt.dll
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\ref\AntrasPrakt.dll
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\bin\Debug\net5.0\AntrasPrakt.pdb
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.csproj.AssemblyReference.cache
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.AssemblyInfoInputs.cache
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.AssemblyInfo.cs
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.csproj.CoreCompileInputs.cache
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.dll
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\ref\AntrasPrakt.dll
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.pdb
+C:\Users\smics\Desktop\Book c++\Atsiskaitymai c#\AntrasPraktinis\AntrasPrakt\AntrasPrakt\obj\Debug\net5.0\AntrasPrakt.genruntimeconfig.cache
